@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -23,12 +24,18 @@ namespace WebAPI.Controllers
             var accessSecret = ConfigurationManager.AppSettings["accessSecret"];
 
             var token = Tokens.Create(consumerKey,consumerSecret,accessToken,accessSecret);
-            var pv = await Analytics.GetPvAsync();
+            try
+            {
+                var pv = await Analytics.GetPvAsync();
+                var message = string.Format("昨日のなか日記のPVは{0}でした", pv);
+                await token.Statuses.UpdateAsync(status => message);
 
-            var message = string.Format("昨日のなか日記のPVは{0}でした", pv);
-            await token.Statuses.UpdateAsync(status => message);
-
-            return message;
+                return message;
+            }
+            catch(Exception ex)
+            {
+                return ex.ToString();
+            }
         }
     }
 }

@@ -2,6 +2,7 @@
 using System.Configuration;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
+using System.Web;
 using Google.Apis.Analytics.v3;
 using Google.Apis.Auth.OAuth2;
 using Google.Apis.Services;
@@ -13,7 +14,8 @@ namespace WebAPI
         public async static Task<int> GetPvAsync()
         {
             // Azure Web サイトで動かす場合には WEBSITE_LOAD_USER_PROFILE = 1 必須
-            var analyticsKeyFile = ConfigurationManager.AppSettings["analyticsKeyFile"];
+            var file = ConfigurationManager.AppSettings["analyticsKeyFile"];
+            var analyticsKeyFile = file[0] == '~' ? HttpContext.Current.Server.MapPath(file) : file;
             var certificate = new X509Certificate2(analyticsKeyFile, "notasecret", X509KeyStorageFlags.Exportable);
 
             // Scopes は指定しないとエラーになる

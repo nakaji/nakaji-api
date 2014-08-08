@@ -27,7 +27,7 @@ namespace WebAPI.Controllers
             try
             {
                 var pv = await Analytics.GetPvAsync();
-                var message = string.Format("昨日のなか日記のPVは{0}でした", pv);
+                var message = string.Format("昨日のなか日記のPVは{0}でした http://nakaji.hatenablog.com/", pv);
                 await token.Statuses.UpdateAsync(status => message);
 
                 return message;

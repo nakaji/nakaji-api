@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>なか日記</title>
+    <link>http://nakaji.hatenablog.com/</link>
+    <description>不定期にどうでもいいことをつらつらと…</description>
+    <lastBuildDate>Sat, 16 Aug 2014 22:26:47 +0900</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>Hatena::Blog</generator>
+    
+      
+        <item>
+          <title>「もっと○○してからにしよう」をやめる</title>
+          <link>http://nakaji.hatenablog.com/entry/2014/08/16/222644</link>
+          <description>&lt;p&gt;今朝、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;Proの契約をしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://nakaji.hatenablog.com/entry/2014/08/16/095740&quot;&gt;後先考えず、はてなブログProにしたった - なか日記&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;勢いでやっちゃったって雰囲気もありますが、ちょっとだけ考えたんです。&lt;/p&gt;
+
+&lt;h2&gt;もっと○○してからにしよう&lt;/h2&gt;
+
+&lt;p&gt;「もっと○○してからにしよう」って思うことって多くないでしょうか？私は結構あります。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;もっと考えをまとめてから発言しよう&lt;/li&gt;
+&lt;li&gt;もっと文面を見直してからメールしよう&lt;/li&gt;
+&lt;li&gt;もっと&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Excel&quot;&gt;Excel&lt;/a&gt;方眼紙を綺麗に整えてから提出しよう&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;などなど。&lt;/p&gt;
+
+&lt;p&gt;でも、よくよく考えるとこれって結構むだが多いですよね。&lt;/p&gt;
+
+&lt;h2&gt;早くフィードバックもらおう&lt;/h2&gt;
+
+&lt;p&gt;時間かけてないで、さっさとすることしてフィードバックもらった方が一歩も二歩もより早く先に進めますね。&lt;/p&gt;
+
+&lt;p&gt;そんなわけで、最近はさっさと出してしまうことにしてます。もちろん、最低限のクオリティは確保した上でですけどね。&lt;/p&gt;
+
+&lt;p&gt;ブログに書いたこの件なんかもそうです。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://nakaji.hatenablog.com/entry/2014/06/11/073000&quot;&gt;受付アプリをざくっと作ってみたった #pronama - なか日記&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;もっとやりたいことはあったけど、さっさと公開しました。それにより、らまっこさんに参加者登録の仕組みを作ってもらい、無事勉強会当日に利用することができました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://nakaji.hatenablog.com/entry/2014/06/12/072000&quot;&gt;受付アプリの参加者登録が手入力不要になりました - なか日記&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;Proも同じ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;Proに申し込んだのも同じです。&lt;/p&gt;
+
+&lt;p&gt;Pro固有の機能には個人的にそれほどメリットを感じていませんでした。&lt;/p&gt;
+
+&lt;p&gt;自分が感じてたメリットは以下のようなものです。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ブログネタを探す為にもっとアンテナを張るようになる（情報力up）&lt;/li&gt;
+&lt;li&gt;技術系の記事を書くためにいろいろ意識するようになる（技術力up）&lt;/li&gt;
+&lt;li&gt;内容や構成を考えるようになる（文章力up）&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;ひと言でいうと、「自分がもっと考えたり、情報に敏感になる」のが目的です。&lt;/p&gt;
+
+&lt;p&gt;これであれば「もっとたくさん記事が書けるようになってから、Proにしたんでいいんじゃない。」と思われるんじゃないでしょうか。&lt;/p&gt;
+
+&lt;p&gt;そうですね。モチベーションが高い人ならそうだと思います。でも、自分の場合「せっかく課金したんだから」というきっかけというか、追い込みが必要な気がしました。お金がかかってなければ、ブログ書かなくなっても痛くもかゆくもない&lt;a href=&quot;#f-3ba5f7dd&quot; name=&quot;fn-3ba5f7dd&quot; title=&quot;そんな事はないけど、それはまた別の機会に&quot;&gt;*1&lt;/a&gt;ですから。&lt;/p&gt;
+
+&lt;p&gt;そんあわけで、今回も「もっと○○してからにしよう」をやめて、思い切ってProの契約をしたというわけです。&lt;/p&gt;
+
+&lt;p&gt;そんな中、たまたま&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%B7%EB%BE%EB%B9%C0&quot;&gt;結城浩&lt;/a&gt;さんの書かれた記事を目にしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://note.mu/hyuki/n/n9c65b161bd8a&quot;&gt;「もっと学んでからにしよう」と思わなくて、本当によかった（日々の日記）｜結城浩｜note&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;人間、生きられる時間は限られてます。その中で、いつ来るかわからない時期を待って足踏みしているのはもったいないですよね。&lt;/p&gt;
+&lt;div class=&quot;footnote&quot;&gt;
+&lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-3ba5f7dd&quot; name=&quot;f-3ba5f7dd&quot; class=&quot;footnote-number&quot;&gt;*1&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;そんな事はないけど、それはまた別の機会に&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <pubDate>Sat, 16 Aug 2014 22:26:44 +0900</pubDate>
+          <guid isPermalink="false">hatenablog://entry/12921228815730377463</guid>
+          
+            <category>考え</category>
+          
+        </item>
+      
+        <item>
+          <title>後先考えず、はてなブログProにしたった</title>
+          <link>http://nakaji.hatenablog.com/entry/2014/08/16/095740</link>
+          <description>&lt;p&gt;さっき、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;Proにしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt;Proを開始しました &lt;a href=&quot;http://t.co/5iYTprqhjn&quot;&gt;http://t.co/5iYTprqhjn&lt;/a&gt;&lt;/p&gt;&amp;mdash; なかじ (@nakaji) &lt;a href=&quot;https://twitter.com/nakaji/statuses/500439354251026432&quot;&gt;2014, 8月 16&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2&gt;きっかけはあの人のひところから&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;なか日記、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%ED%A5%B0&quot;&gt;はてなブログ&lt;/a&gt; Pro じゃなかった&lt;/p&gt;&amp;mdash; しばやん (@shibayan) &lt;a href=&quot;https://twitter.com/shibayan/statuses/498621250567041024&quot;&gt;2014, 8月 11&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;え、なになに？Proにしたら何かいいことあるの？と思って聞いてみたら、&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/nakaji&quot;&gt;@nakaji&lt;/a&gt; 月に 1000 円払える（&lt;/p&gt;&amp;mdash; しばやん (@shibayan) &lt;a href=&quot;https://twitter.com/shibayan/statuses/498654182832754688&quot;&gt;2014, 8月 11&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh!no!これはアカンで。お小遣いがアレな自分にとってはまぁまぁしんどい。&lt;/p&gt;
+
+&lt;p&gt;それでも、某氏は薦めてきます。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;なかじ氏も Pro にしよう。お小遣い吹っ飛ぶけど&lt;/p&gt;&amp;mdash; しばやん (@shibayan) &lt;a href=&quot;https://twitter.com/shibayan/statuses/499574971614523393&quot;&gt;2014, 8月 13&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2&gt;いろんな人の意見&lt;/h2&gt;
+
+&lt;p&gt;何人かProについてコメントもらいました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;Proにした結果ブログを書くようにはなったけど定期的にネタに困るようになた&lt;/p&gt;&amp;mdash; 酢酸(さくさん) (@ch3cooh) &lt;a href=&quot;https://twitter.com/ch3cooh/statuses/499575894420119553&quot;&gt;2014, 8月 13&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/nakaji&quot;&gt;@nakaji&lt;/a&gt; ですです&lt;/p&gt;&amp;mdash; はまもつ (@Airish9) &lt;a href=&quot;https://twitter.com/Airish9/statuses/499575904951992321&quot;&gt;2014, 8月 13&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;なるほど。ブログを通して、良い習慣を身につけるきっかけを得るというわけですね。&lt;/p&gt;
+
+&lt;h2&gt;今日の話&lt;/h2&gt;
+
+&lt;p&gt;そういや&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Google%20AdSense&quot;&gt;Google AdSense&lt;/a&gt;のアカウント作ってたなぁとか思い出してみてた気がついた。そしてつぶやいた。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/nakaji&quot;&gt;@nakaji&lt;/a&gt; 元が取れなくても Pro にしていいのよ&lt;/p&gt;&amp;mdash; しばやん (@shibayan) &lt;a href=&quot;https://twitter.com/shibayan/statuses/500432891361251328&quot;&gt;2014, 8月 16&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;某氏からまた背中を押されました（三度目）。&lt;/p&gt;
+
+&lt;h2&gt;いろいろ思うところがあって申し込み&lt;/h2&gt;
+
+&lt;p&gt;お小遣いはアレですが、思い切って申し込みました。後悔はしません。&lt;/p&gt;
+
+&lt;p&gt;思うところは別の日に書きたいと思います。&lt;/p&gt;
+</description>
+          <pubDate>Sat, 16 Aug 2014 09:57:40 +0900</pubDate>
+          <guid isPermalink="false">hatenablog://entry/12921228815730348312</guid>
+          
+            <category>雑記</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          <title>GitBucketでプライベート環境にGitHubクローン環境をサクッと作ったった</title>
+          <link>http://nakaji.hatenablog.com/entry/2014/08/14/222825</link>
+          <description>&lt;p&gt;今日はこんな事がありました。
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;若い子がVSSか&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/SVN&quot;&gt;SVN&lt;/a&gt;どっち使う？って話をしてたので、Gitを提案した。協議の結果、VSSになったらしい(*´ω｀*)&lt;/p&gt;&amp;mdash; なかじ (@nakaji) &lt;a href=&quot;https://twitter.com/nakaji/statuses/499734436527624193&quot;&gt;2014, 8月 14&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+Gitの良いところを上手に伝えられなかったのが残念です。&lt;/p&gt;
+
+&lt;p&gt;協議の間、自分は中央&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;をどうやって公開しようかなぁと考えていました。始めてのGitなので変な環境にしちゃって「なんか、Gitっていまいちだよねー」なんてことになってしまうと悲しいです。&lt;/p&gt;
+
+&lt;p&gt;そこでふと思い出したのがGitBucketです。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/takezoe/gitbucket&quot;&gt;takezoe/gitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;ちょこっと試してみたら5分もかからずに使える状態に持って行けたのでこれはお手軽でイイ！という事でブログに書きます。&lt;/p&gt;
+
+&lt;h2&gt;GitBucketってなに？&lt;/h2&gt;
+
+&lt;p&gt;Atlasianの&lt;a href=&quot;https://bitbucket.org/&quot;&gt;BitBucket&lt;/a&gt;と名前が似てて紛らわしいですが、GitBucketは&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Scala&quot;&gt;Scala&lt;/a&gt;で作成された&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;クローンです。
+&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;クローンといえば、&lt;a href=&quot;https://about.gitlab.com/&quot;&gt;GitLab&lt;/a&gt;もありますが、インストールはGitBucketの方が簡単そうです。&lt;/p&gt;
+
+&lt;h2&gt;必要なもの&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Java&quot;&gt;Java&lt;/a&gt;の実行環境&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;はい。たったこれだけです。&lt;a href=&quot;#f-2cb0e6b1&quot; name=&quot;fn-2cb0e6b1&quot; title=&quot;きっと&quot;&gt;*1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;下準備&lt;/h2&gt;
+
+&lt;p&gt;下記URLから最新のwarファイルをダウンロードしておきます。&lt;/p&gt;
+
+&lt;h2&gt;実行してみる&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%B3%A5%DE%A5%F3%A5%C9%A5%D7%A5%ED%A5%F3%A5%D7%A5%C8&quot;&gt;コマンドプロンプト&lt;/a&gt;から以下のコマンドを実行します。&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;&amp;gt; java -jar gitbucket.war&lt;/pre&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:8080/&quot;&gt;http://localhost:8080/&lt;/a&gt;にアクセスして、以下のような画面が表示されれば成功です。&lt;/p&gt;
+
+&lt;p&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;http://cdn-ak.f.st-hatena.com/images/fotolife/n/nakaji999/20140814/20140814220003.png&quot; alt=&quot;f:id:nakaji999:20140814220003p:plain&quot; title=&quot;f:id:nakaji999:20140814220003p:plain&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;h2&gt;管理者ログイン&lt;/h2&gt;
+
+&lt;p&gt;管理者としてroot（パスワードも同じ）が登録されているので、まずはログインして一般ユーザーの登録などするといいと思います。&lt;/p&gt;
+
+&lt;h2&gt;ポートを変更する&lt;/h2&gt;
+
+&lt;p&gt;デフォルトのポートは8080です。変更したい場合は起動時のパラメータでポートを指定します。&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;&amp;gt; java -jar gitbucket.war --port=9090&lt;/pre&gt;
+
+
+&lt;h2&gt;データの保存先&lt;/h2&gt;
+
+&lt;p&gt;設定や&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;のデータの保存先は、デフォルトではホームディレクトリ配下の.gitbucketになります。（ex. C:\Users\nakaji.gitbucket）&lt;/p&gt;
+
+&lt;p&gt;この場所を変更したい場合も起動時のパラメータで指定します。&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;&amp;gt; java -jar gitbucket.war --gitbucket.home=D:\GitBucket&lt;/pre&gt;
+
+
+&lt;p&gt;その他の情報は&lt;a href=&quot;https://github.com/takezoe/gitbucket#gitbucket--&quot;&gt;本家のGitHubリポジトリ&lt;/a&gt;をみてもらえたら地位と思います。&lt;/p&gt;
+
+&lt;h2&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;超お手軽に&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;クローン環境なんてステキですね。&lt;/p&gt;
+
+&lt;p&gt;これでGitに慣れてもらい、ブランチがそれなりに使えるようになって、プルリクエストでコードレビューなんていいじゃない！
+そのうち&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt; Enterprise契約して・・・と夢は広がったのですが、冒頭の通り残念な結果になりました。これにめげず、痛いおっさんと思われても良いので良いものは薦めていきたいと思います。&lt;/p&gt;
+&lt;div class=&quot;footnote&quot;&gt;
+&lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-2cb0e6b1&quot; name=&quot;f-2cb0e6b1&quot; class=&quot;footnote-number&quot;&gt;*1&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;きっと&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <pubDate>Thu, 14 Aug 2014 22:28:25 +0900</pubDate>
+          <guid isPermalink="false">hatenablog://entry/12921228815730189779</guid>
+          
+        </item>
+      
+    
+      
+        <item>
+          <title>Microsoft Azure WebJobのスケジューラの件</title>
+          <link>http://nakaji.hatenablog.com/entry/2014/08/10/232614</link>
+          <description>&lt;p&gt;&lt;a href=&quot;http://nakaji.hatenablog.com/entry/2014/08/08/012119&quot;&gt;Microsoft Azure WebJobを使って前日の PV をツイートするコードを書いてみた - なか日記&lt;/a&gt;で、最後にスケジューラが動かなくて中途半端な結果になってましたが、改めて新しいWebサイトにデプロイしてみたところちゃんとスケジューリングできました。&lt;/p&gt;
+
+&lt;p&gt;前回うまくいかなかった原因は不明です(&lt;em&gt;´ω｀&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h2&gt;WebサイトのWEBジョブ&lt;/h2&gt;
+
+&lt;p&gt;WebサイトのWEBジョブを見るとちゃんと登録されてました。&lt;/p&gt;
+
+&lt;p&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;http://cdn-ak.f.st-hatena.com/images/fotolife/n/nakaji999/20140810/20140810230636.png&quot; alt=&quot;f:id:nakaji999:20140810230636p:plain&quot; title=&quot;f:id:nakaji999:20140810230636p:plain&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;p&gt;ここの「スケジュール」をクリックすると、スケジューラの画面に移動します。&lt;/p&gt;
+
+&lt;h2&gt;スケジューラ&lt;/h2&gt;
+
+&lt;p&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;http://cdn-ak.f.st-hatena.com/images/fotolife/n/nakaji999/20140810/20140810230819.png&quot; alt=&quot;f:id:nakaji999:20140810230819p:plain&quot; title=&quot;f:id:nakaji999:20140810230819p:plain&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;p&gt;WebJobs-JapanWestという名前のジョブ コレクションが作成されて、そこへジョブが登録されています。&lt;/p&gt;
+
+&lt;h2&gt;ジョブの内容&lt;/h2&gt;
+
+&lt;p&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;http://cdn-ak.f.st-hatena.com/images/fotolife/n/nakaji999/20140810/20140810231139.png&quot; alt=&quot;f:id:nakaji999:20140810231139p:plain&quot; title=&quot;f:id:nakaji999:20140810231139p:plain&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;p&gt;指定されたURLへPOSTすると&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/ASP.NET&quot;&gt;ASP.NET&lt;/a&gt;が良い感じに認証もしてくれた上で、サーバ上の実行プログラム（EXE）を実行してくれる仕組みのようです。&lt;/p&gt;
+
+&lt;p&gt;この前書いた↓の方法でも同じような事はできますが、プラットフォームとして提供してもらった方がいろんな面で安心ですね。
+&lt;a href=&quot;http://nakaji.hatenablog.com/entry/2014/08/08/234858&quot;&gt;Azure Webサイトとスケジューラーを使って前日の PV をツイートする仕組みを作ってみた - なか日記&lt;/a&gt;&lt;/p&gt;
+</description>
+          <pubDate>Sun, 10 Aug 2014 23:26:14 +0900</pubDate>
+          <guid isPermalink="false">hatenablog://entry/12921228815729990686</guid>
+          
+            <category>Azure</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          <title>Amazonプライムをうっかりしたけど良い対応してもらった件</title>
+          <link>http://nakaji.hatenablog.com/entry/2014/08/09/222403</link>
+          <description>&lt;p&gt;この前&lt;a href=&quot;#f-c0c44d06&quot; name=&quot;fn-c0c44d06&quot; title=&quot;Kindle Paperwhiteを購入（？） - なか日記&quot;&gt;*1&lt;/a&gt;、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Kindle%20Paperwhite&quot;&gt;Kindle Paperwhite&lt;/a&gt;を買った時に「プライム会員なら月に1冊無料で本が読める&lt;a href=&quot;#f-7451d555&quot; name=&quot;fn-7451d555&quot; title=&quot;特定の本に限るけど&quot;&gt;*2&lt;/a&gt;」というのに興味があって、無料お試ししてました。&lt;/p&gt;
+
+&lt;p&gt;そうしたところ、先日カードの利用通知にプライム会員年会費の請求がきてました。&lt;/p&gt;
+
+&lt;p&gt;「あれれ、確認したつもりだったのに自動的に有料会員に移行しちゃった（」と思いながら何気に呟いてみたところ、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Amazon&quot;&gt;Amazon&lt;/a&gt;の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%AB%A5%B9%A5%BF%A5%DE%A1%BC%A5%B5%A1%BC%A5%D3%A5%B9&quot;&gt;カスタマーサービス&lt;/a&gt;さんから連絡を頂きました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/nakaji&quot;&gt;@nakaji&lt;/a&gt; プライム無料体験にお申込み後に、自動更新設定をOFFにしていただかない場合有料会員へ移行いたします。有料会員に移行後、特典を利用されていない場合は、年会費を返金いたします。下記ヘルプページの内容をご参照ください。 &lt;a href=&quot;http://t.co/wdPTbEVjsf&quot;&gt;http://t.co/wdPTbEVjsf&lt;/a&gt; TY&lt;/p&gt;&amp;mdash; &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Amazon&quot;&gt;Amazon&lt;/a&gt; Help (@AmazonHelp) &lt;a href=&quot;https://twitter.com/AmazonHelp/statuses/497911272369709056&quot;&gt;2014, 8月 9&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;最初は、「年間3900円なので、単純計算だと月平均330円くらいの本を選んでたら元は取れるのでまぁまぁお得なんかなぁ。おまけに&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%AA%B5%DE%A4%AE%CA%D8&quot;&gt;お急ぎ便&lt;/a&gt;も使えるし。」なんて考えてたのですが、以下の様な個人的な問題があったので今回は一旦キャンセルさせてもらいました。&lt;/p&gt;
+
+&lt;h2&gt;キャンセルした理由&lt;/h2&gt;
+
+&lt;h3&gt;1. 無料本を探すのが面倒&lt;br&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Kindle&quot;&gt;Kindle&lt;/a&gt;端末から探す必要がある&lt;a href=&quot;#f-19a2224a&quot; name=&quot;fn-19a2224a&quot; title=&quot;PC等のブラウザからは無料本の購入（？）ができない&quot;&gt;*3&lt;/a&gt;のですが、Paper Whiteは画面の表示速度が早くないのでまぁまぁストレスを感じます。なので、無料とはいえ読みたい本を探すのが結構面倒くさい。&lt;/p&gt;
+
+&lt;h3&gt;2．&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%AA%B5%DE%A4%AE%CA%D8&quot;&gt;お急ぎ便&lt;/a&gt;があまり意味をなさない&lt;/h3&gt;
+
+&lt;p&gt;関東や関西ならその日のうちに届いたりするのかもしれませんが、ここは四国です。注文時のお届け予定日を見る限り、通常でも&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%AA%B5%DE%A4%AE%CA%D8&quot;&gt;お急ぎ便&lt;/a&gt;でも変わらなかった&lt;a href=&quot;#f-cf546495&quot; name=&quot;fn-cf546495&quot; title=&quot;商品によっては1日くらい違うのかもしれないけど&quot;&gt;*4&lt;/a&gt;ので、このメリットは殆どないなぁという感じでした。&lt;/p&gt;
+
+&lt;h2&gt;でも感謝してます&lt;/h2&gt;
+
+&lt;p&gt;この連絡をもらう前に実は商品をポチってたんです。もちろん&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A4%AA%B5%DE%A4%AE%CA%D8&quot;&gt;お急ぎ便&lt;/a&gt;でｗ&lt;/p&gt;
+
+&lt;p&gt;ということは、「特典を利用されていない場合は」という条件を満たしませんね。&lt;/p&gt;
+
+&lt;p&gt;こりゃ、キャンセルは無理かなぁと思いながら手続きしてみると・・・&lt;/p&gt;
+
+&lt;p&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;http://cdn-ak.f.st-hatena.com/images/fotolife/n/nakaji999/20140809/20140809221727.png&quot; alt=&quot;f:id:nakaji999:20140809221727p:plain&quot; title=&quot;f:id:nakaji999:20140809221727p:plain&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;p&gt;お、月割りで返金してくれるの？？？&lt;/p&gt;
+
+&lt;p&gt;というわけで、ありがたくキャンセルされてもらいました。&lt;/p&gt;
+
+&lt;h2&gt;どうでもいいけど&lt;/h2&gt;
+
+&lt;p&gt;同じ日に自分と同じことつぶやいてる方が二人いらっしゃいました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;アマゾンプライムのお試しの解除するの忘れてて年会費轢かれてた&lt;/p&gt;&amp;mdash; チンファ＠のんめい (@raikofan) &lt;a href=&quot;https://twitter.com/raikofan/statuses/497755713565769729&quot;&gt;2014, 8月 8&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;アマゾンプライムなんか知らないけど入っちゃってた〜やっちまった〜年会費取られたからつらいまる〜&lt;/p&gt;&amp;mdash; しゅーと (@shu1207bass) &lt;a href=&quot;https://twitter.com/shu1207bass/statuses/497685835894890496&quot;&gt;2014, 8月 8&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;div class=&quot;footnote&quot;&gt;
+&lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-c0c44d06&quot; name=&quot;f-c0c44d06&quot; class=&quot;footnote-number&quot;&gt;*1&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;&lt;a href=&quot;http://nakaji.hatenablog.com/entry/2014/07/16/001839&quot;&gt;Kindle Paperwhiteを購入（？） - なか日記&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-7451d555&quot; name=&quot;f-7451d555&quot; class=&quot;footnote-number&quot;&gt;*2&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;特定の本に限るけど&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-19a2224a&quot; name=&quot;f-19a2224a&quot; class=&quot;footnote-number&quot;&gt;*3&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;PC等のブラウザからは無料本の購入（？）ができない&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-cf546495&quot; name=&quot;f-cf546495&quot; class=&quot;footnote-number&quot;&gt;*4&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;商品によっては1日くらい違うのかもしれないけど&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <pubDate>Sat, 09 Aug 2014 22:24:03 +0900</pubDate>
+          <guid isPermalink="false">hatenablog://entry/12921228815729937118</guid>
+          
+            <category>雑記</category>
+          
+        </item>
+      
+        <item>
+          <title>Azure PowerShellを使うための下準備</title>
+          <link>http://nakaji.hatenablog.com/entry/2014/08/09/011637</link>
+          <description>&lt;p&gt;Azure &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/PowerShell&quot;&gt;PowerShell&lt;/a&gt;を使用すると、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/PowerShell&quot;&gt;PowerShell&lt;/a&gt;でAzureのいろんな操作が行えるようになります。&lt;/p&gt;
+
+&lt;p&gt;Azure &lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/PowerShell&quot;&gt;PowerShell&lt;/a&gt;は標準ではインストールされていないので、WebPI&lt;a href=&quot;#f-17e92779&quot; name=&quot;fn-17e92779&quot; title=&quot;Microsoft Web Platform Installer&quot;&gt;*1&lt;/a&gt;を使用してインストールする必要があります。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.microsoft.com/web/downloads/platform.aspx&quot;&gt;Download the Microsoft Web Platform&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;小話&lt;/h2&gt;
+
+&lt;p&gt;先日、このブログのPVをツイートする仕組みを作っのですが、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://nakaji.hatenablog.com/entry/2014/08/08/234858&quot;&gt;Azure Webサイトとスケジューラーを使って前日の PV をツイートする仕組みを作ってみた - なか日記&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;それに前後して酢酸先生もブログを書かれてて、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.ch3cooh.jp/entry/20140808/1407464147&quot;&gt;C#とCoreTweetを使って簡単にTwitterへツイートするbotを作る - 酢ろぐ！&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;その結果、&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;昨日のしばやん雑記の PV は 1599 でした。&lt;/p&gt;&amp;mdash; しばやん (@shibayan) &lt;a href=&quot;https://twitter.com/shibayan/statuses/497760406404747264&quot;&gt;2014, 8月 8&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;昨日の酢ろぐの PV は 1,560 でした。 &lt;a href=&quot;http://t.co/bZ7noiWmmp&quot;&gt;http://t.co/bZ7noiWmmp&lt;/a&gt;&lt;/p&gt;&amp;mdash; 酢酸(さくさん) (@ch3cooh) &lt;a href=&quot;https://twitter.com/ch3cooh/statuses/497760618154184704&quot;&gt;2014, 8月 8&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;さすがですね。1500PVなんてスゴイです。&lt;/p&gt;
+
+&lt;p&gt;そして、二人ともツイートする時間は0:05に設定されている様です。&lt;/p&gt;
+
+&lt;h2&gt;ちょっと恥ずかしいやないの&lt;/h2&gt;
+
+&lt;p&gt;人の役に立つ記事が少ないのでPVが少ないのはしょうがないですが、この二人のPVを見るとちょっと気後れしちゃいますね。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;ja&quot;&gt;&lt;p&gt;昨日のなか日記のPVは325でした &lt;a href=&quot;http://t.co/XKMz4hV4Q9&quot;&gt;http://t.co/XKMz4hV4Q9&lt;/a&gt;&lt;/p&gt;&amp;mdash; なかじ (@nakaji) &lt;a href=&quot;https://twitter.com/nakaji/statuses/497766728357531650&quot;&gt;2014, 8月 8&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;というわけで、ツイートする時間を変えようと思いました。&lt;/p&gt;
+
+&lt;h2&gt;よーし、お父さんも0:05にツイートしちゃうぞ&lt;/h2&gt;
+
+&lt;p&gt;というわけで、この前しばやんがブログに書かれてた方法でスケジューラの変更をすることにしました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://shiba-yan.hatenablog.jp/entry/20140807/1407383848&quot;&gt;PowerShell コマンドレットを使って Azure スケジューラの開始時間をもっと細かく指定する - しばやん雑記&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;ここからが本第&lt;/h2&gt;
+
+&lt;p&gt;前置き長すぎますね。まぁ、日記なのでカンベンして下さい。&lt;/p&gt;
+
+&lt;p&gt;しばやんのブログをまるパクリして設定しようとしたのですが、&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;PS C:\&amp;gt; $startTime = [DateTime]::Parse(&amp;#34;2014-08-09T15:05:00Z&amp;#34;);
+PS C:\&amp;gt; Set-AzureSchedulerHttpJob -Location &amp;#34;Japan West&amp;#34; -JobCollectionName nakaji-api -JobName tweetpv -StartTime $startTime
+Set-AzureSchedulerHttpJob : No current subscription has been designated. Use Select-AzureSubscription -Current &amp;lt;subscriptionName&amp;gt; to set the current subscription.
+発生場所 行:1 文字:1
++ Set-AzureSchedulerHttpJob -Location &amp;#34;Japan West&amp;#34; -JobCollectionName nakaji-api - ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : CloseError: (:) [Set-AzureSchedulerHttpJob]、Exception
+    + FullyQualifiedErrorId : Microsoft.WindowsAzure.Commands.Scheduler.SetSchedulerHttpJobCommand&lt;/pre&gt;
+
+
+&lt;p&gt;「&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%B5%A5%D6%A5%B9%A5%AF%A5%EA%A5%D7%A5%B7%A5%E7%A5%F3&quot;&gt;サブスクリプション&lt;/a&gt;指定してないやないか。コラッ」ってエラーになっちゃいました。&lt;/p&gt;
+
+&lt;h2&gt;最初にAzureへの認証をしましょう&lt;/h2&gt;
+
+&lt;p&gt;そりゃそうだわなって話ですね。&lt;/p&gt;
+
+&lt;p&gt;というわけで、以下の様なコマンドで設定しました。&lt;/p&gt;
+
+&lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;#認証
+Add-AzureAccount
+
+#アカウントで管理してるサブスクリプションの一覧を表示
+Get-AzureSubscription
+
+#サブスクリプションを選択する
+Select-AzureSubscription -Current
+
+#スケジューラの時刻を変更する（しばやん先生のまるパクリ）
+
+# 開始時間の DateTime を作成（めんどくさいから Parse してる）
+$startTime = [DateTime]::Parse(&amp;#34;2014-08-09T15:05:00Z&amp;#34;);
+
+# 必須なのは Location / JobCollectionName / JobName
+Set-AzureSchedulerHttpJob -Location &amp;#34;Japan West&amp;#34; -JobCollectionName nakaji-api -JobName tweetpv -StartTime $startTime&lt;/pre&gt;
+
+
+&lt;p&gt;こんへんに情報載ってましたね。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://azure.microsoft.com/ja-jp/documentation/articles/install-configure-powershell/&quot;&gt;Azure PowerShell をインストールして構成する方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;明日が楽しみだ&lt;/h2&gt;
+
+&lt;p&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;http://cdn-ak.f.st-hatena.com/images/fotolife/n/nakaji999/20140809/20140809011612.png&quot; alt=&quot;f:id:nakaji999:20140809011612p:plain&quot; title=&quot;f:id:nakaji999:20140809011612p:plain&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;p&gt;明日からしばやん、酢酸先生と同じタイミングでツイートします！！（たぶん）&lt;/p&gt;
+&lt;div class=&quot;footnote&quot;&gt;
+&lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-17e92779&quot; name=&quot;f-17e92779&quot; class=&quot;footnote-number&quot;&gt;*1&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Microsoft&quot;&gt;Microsoft&lt;/a&gt; Web Platform Installer&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <pubDate>Sat, 09 Aug 2014 01:16:37 +0900</pubDate>
+          <guid isPermalink="false">hatenablog://entry/12921228815729878412</guid>
+          
+            <category>Azure</category>
+          
+            <category>PowerShell</category>
+          
+        </item>
+      
+    
+      
+        <item>
+          <title>Azure Webサイトとスケジューラーを使って前日の PV をツイートする仕組みを作ってみた</title>
+          <link>http://nakaji.hatenablog.com/entry/2014/08/08/234858</link>
+          <description>&lt;p&gt;先日「 &lt;a href=&quot;http://nakaji.hatenablog.com/entry/2014/08/08/012119&quot;&gt;Microsoft Azure WebJobを使って前日の PV をツイートするコードを書いてみた - なか日記&lt;/a&gt;」というエントリを書きましたが、これは結局うまくスケジュール起動させることができませんでした&lt;a href=&quot;#f-7ec0489f&quot; name=&quot;fn-7ec0489f&quot; title=&quot;やり方が間違ってるという可能性は大いにありますが&quot;&gt;*1&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;実はれより前に考えていた仕組みがありまして、それでは思った通りのことができてたのでそれを紹介しようと思います。&lt;/p&gt;
+
+&lt;p&gt;基本的なコードは先日のブログとほとんど変わらないのでブログには載せずに&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;の&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA&quot;&gt;リポジトリ&lt;/a&gt;に上げときます。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nakaji/nakaji-api&quot;&gt;nakaji/nakaji-api&lt;/a&gt; のTweetPVコントローラ&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;方式&lt;/h2&gt;
+
+&lt;p&gt;一言でいうと、&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/Microsoft&quot;&gt;Microsoft&lt;/a&gt; Azure上で「スケジューラからWebサイトのWebAPIをつんつんする」方式です。&lt;/p&gt;
+
+&lt;h3&gt;１．Azure Webサイト上にWebAPIを公開する&lt;/h3&gt;
+
+&lt;p&gt;要求を受けるとその中で昨日のPVを取得し、ツイートする。という&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;を作成します。&lt;/p&gt;
+
+&lt;p&gt;例えば、 http://[適当な名前].azurewebsites.net/&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/api&quot;&gt;api&lt;/a&gt;/TweetPV をGETするとPV取得してツイートする感じです。&lt;/p&gt;
+
+&lt;h3&gt;２．スケジューラで設定&lt;/h3&gt;
+
+&lt;p&gt;定期的に上記&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;をたたくようにスケジューリングします。&lt;/p&gt;
+
+&lt;p&gt;例えば、こんな感じ。&lt;/p&gt;
+
+&lt;p&gt;&lt;span itemscope itemtype=&quot;http://schema.org/Photograph&quot;&gt;&lt;img src=&quot;http://cdn-ak.f.st-hatena.com/images/fotolife/n/nakaji999/20140808/20140808233927.png&quot; alt=&quot;f:id:nakaji999:20140808233927p:plain&quot; title=&quot;f:id:nakaji999:20140808233927p:plain&quot; class=&quot;hatena-fotolife&quot; itemprop=&quot;image&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;h2&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;昨日の記事が中途半端だったので、一応こんなやり方で定期的にツイートできるよっていう紹介してみました。&lt;/p&gt;
+
+&lt;p&gt;もちろん、このやり方が全てではないし、他にもっと良いやり方があると思います。&lt;/p&gt;
+
+&lt;p&gt;でも、これだと&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/GitHub&quot;&gt;GitHub&lt;/a&gt;等からデプロイ連動できるし、他にツイートしたいことがあれば&lt;a class=&quot;keyword&quot; href=&quot;http://d.hatena.ne.jp/keyword/API&quot;&gt;API&lt;/a&gt;増やせば良いだけだし、結構良いんじゃないかなぁと個人的には感じてます。&lt;/p&gt;
+
+&lt;p&gt;もっと勉強します。楽しいです。それでは、また。&lt;/p&gt;
+&lt;div class=&quot;footnote&quot;&gt;
+&lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-7ec0489f&quot; name=&quot;f-7ec0489f&quot; class=&quot;footnote-number&quot;&gt;*1&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;やり方が間違ってるという可能性は大いにありますが&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+          <pubDate>Fri, 08 Aug 2014 23:48:58 +0900</pubDate>
+          <guid isPermalink="false">hatenablog://entry/12921228815729869628</guid>
+          
+            <category>Azure</category>
+          
+        </item>
+      
+    
+  </channel>
+</rss>

@@ -9,7 +9,7 @@ using System.Xml;
 using System.Xml.Linq;
 using WebGrease.Css.Extensions;
 
-namespace WebAPI
+namespace WebAPI.Model
 {
     public class HateBloRssReader
     {

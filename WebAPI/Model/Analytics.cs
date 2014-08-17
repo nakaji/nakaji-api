@@ -7,7 +7,7 @@ using Google.Apis.Analytics.v3;
 using Google.Apis.Auth.OAuth2;
 using Google.Apis.Services;
 
-namespace WebAPI
+namespace WebAPI.Model
 {
     public class Analytics
     {

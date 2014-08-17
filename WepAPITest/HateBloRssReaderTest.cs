@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using WebAPI;
+using WebAPI.Model;
 
 namespace WepAPITest
 {

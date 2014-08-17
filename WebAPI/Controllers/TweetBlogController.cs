@@ -25,22 +25,15 @@ namespace WebAPI.Controllers
 
             var items = await rssReader.GetRssItemsAfterTheSpecifiedDateAsync(DateTime.Now.AddDays(-1));
 
-            var consumerKey = ConfigurationManager.AppSettings["consumerKey"];
-            var consumerSecret = ConfigurationManager.AppSettings["consumerSecret"];
-            var accessToken = ConfigurationManager.AppSettings["accessToken"];
-            var accessSecret = ConfigurationManager.AppSettings["accessSecret"];
-
-            var token = Tokens.Create(consumerKey, consumerSecret, accessToken, accessSecret);
-            string tweets;
+            var twitterHelper = new TwitterHelper();
             try
             {
                 foreach (var rssItem in items)
                 {
                     var pv = await Analytics.GetPvAsync();
                     var message = string.Format(MessageTemplate, rssItem.Title, rssItem.Link);
-                    await token.Statuses.UpdateAsync(status => message);
+                    await twitterHelper.UpdateStatusAsync(message);
                 }
-
                 return items;
             }
             catch (Exception ex)

@@ -17,6 +17,10 @@ namespace WebAPI.Controllers
 {0} - なか日記
 {1}
 ";
+        private const string MessageNoBlog = @"最近、ブログ書いてません。
+なか日記
+http://nakaji.hatenablog.com/
+";
 
         // GET api/TweetBlog
         public async Task<List<RssItem>> Get()
@@ -28,6 +32,11 @@ namespace WebAPI.Controllers
             var twitterHelper = new TwitterHelper();
             try
             {
+                if (items.Count == 0)
+                {
+                    await twitterHelper.UpdateStatusAsync(MessageNoBlog);
+                    return null;
+                }
                 foreach (var rssItem in items)
                 {
                     var pv = await Analytics.GetPvAsync();

@@ -182,7 +182,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Model\CustomWebClient.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Model\HateBloRssReader.cs" />
+    <Compile Include="Model\HatenaCounterHelper.cs" />
     <Compile Include="Model\TwitterHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -22,7 +22,7 @@ namespace WebAPI.Controllers
             var twitterHelper = new TwitterHelper();
             try
             {
-                var pv = await Analytics.GetPvAsync();
+                var pv = HatenaCounterHelper.GetPv(101, DateTime.UtcNow.AddHours(9).AddDays(-1));
                 var message = string.Format("昨日のなか日記のPVは{0}でした http://nakaji.hatenablog.com/", pv);
                 await twitterHelper.UpdateStatusAsync(message);
 

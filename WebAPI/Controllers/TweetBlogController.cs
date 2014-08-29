@@ -39,7 +39,6 @@ http://nakaji.hatenablog.com/
                 }
                 foreach (var rssItem in items)
                 {
-                    var pv = await Analytics.GetPvAsync();
                     var message = string.Format(MessageTemplate, rssItem.Title, rssItem.Link);
                     await twitterHelper.UpdateStatusAsync(message);
                 }

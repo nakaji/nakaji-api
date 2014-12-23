@@ -38,7 +38,7 @@ namespace WepAPITest
             var xml = File.ReadAllText(@".\TestData\rss.xml");
             var items = _sut.GetRssItemsAfterTheSpecifiedDate(xml,new DateTime(2014,8,16,9,0,0));
 
-            Assert.AreEqual(2, items.Count());
+            Assert.AreEqual(2, items.RssItems.Count());
         }
 
         [TestMethod]

@@ -32,10 +32,13 @@ namespace WebAPI.Model
             return GetItems();
         }
 
-        public async Task<List<RssItem>> GetRssItemsAfterTheSpecifiedDateAsync(DateTime date)
+        public async Task<RssInfo> GetRssItemsAfterTheSpecifiedDateAsync(DateTime date)
         {
-            var item = await GetAllRssItemsAsync();
-            return item.Where(x => x.PubDate >= date).ToList();
+            var items = await GetAllRssItemsAsync();
+            var info = new RssInfo();
+            info.RssItems = items.Where(x => x.PubDate >= date).ToList();
+            info.LastPubDate = items.Max(x => x.PubDate);
+            return info;
         }
 
         public List<RssItem> GetAllRssItems(string xml)
@@ -45,10 +48,13 @@ namespace WebAPI.Model
             return GetItems();
         }
 
-        public List<RssItem> GetRssItemsAfterTheSpecifiedDate(string xml, DateTime date)
+        public RssInfo GetRssItemsAfterTheSpecifiedDate(string xml, DateTime date)
         {
             RssXml = xml;
-            return GetItems().Where(x => x.PubDate >= date).ToList();
+            var info = new RssInfo();
+            info.RssItems = GetItems().Where(x => x.PubDate >= date).ToList();
+            info.LastPubDate = GetItems().Max(x => x.PubDate);
+            return info;
         }
 
         private List<RssItem> GetItems()
@@ -70,6 +76,12 @@ namespace WebAPI.Model
 
             return items;
         }
+    }
+
+    public class RssInfo
+    {
+        public DateTime? LastPubDate { get; set; }
+        public List<RssItem> RssItems { get; set; }
     }
 
     public class RssItem

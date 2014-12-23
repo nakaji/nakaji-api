@@ -17,7 +17,7 @@ namespace WebAPI.Controllers
 {0} - なか日記
 {1}
 ";
-        private const string MessageNoBlog = @"最近、ブログ書いてません。
+        private const string MessageNoBlog = @"最近、ブログ書いてません。（{0}日目）
 なか日記
 http://nakaji.hatenablog.com/
 ";
@@ -32,17 +32,19 @@ http://nakaji.hatenablog.com/
             var twitterHelper = new TwitterHelper();
             try
             {
-                if (items.Count == 0)
+                if (items.RssItems.Count == 0)
                 {
-                    await twitterHelper.UpdateStatusAsync(MessageNoBlog);
+                    var message = string.Format(MessageNoBlog, (DateTime.Now-items.LastPubDate.Value).Days);
+                    await twitterHelper.UpdateStatusAsync(message);
                     return null;
                 }
-                foreach (var rssItem in items)
+
+                foreach (var rssItem in items.RssItems)
                 {
                     var message = string.Format(MessageTemplate, rssItem.Title, rssItem.Link);
                     await twitterHelper.UpdateStatusAsync(message);
                 }
-                return items;
+                return items.RssItems;
             }
             catch (Exception ex)
             {

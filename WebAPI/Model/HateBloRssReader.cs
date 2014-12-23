@@ -21,6 +21,10 @@ namespace WebAPI.Model
             Url = rssUrl;
         }
 
+        /// <summary>
+        /// URLからRSS情報を取得する
+        /// </summary>
+        /// <returns></returns>
         public async Task<List<RssItem>> GetAllRssItemsAsync()
         {
             using (var client = new WebClient(){Encoding = Encoding.UTF8})
@@ -32,6 +36,11 @@ namespace WebAPI.Model
             return GetItems();
         }
 
+        /// <summary>
+        /// 指定日以降のエントリと最終更新日を取得する
+        /// </summary>
+        /// <param name="date"></param>
+        /// <returns></returns>
         public async Task<RssInfo> GetRssItemsAfterTheSpecifiedDateAsync(DateTime date)
         {
             var items = await GetAllRssItemsAsync();
@@ -41,6 +50,11 @@ namespace WebAPI.Model
             return info;
         }
 
+        /// <summary>
+        /// XMLからRSS情報を取得する
+        /// </summary>
+        /// <param name="xml"></param>
+        /// <returns></returns>
         public List<RssItem> GetAllRssItems(string xml)
         {
             RssXml = xml;
@@ -48,6 +62,12 @@ namespace WebAPI.Model
             return GetItems();
         }
 
+        /// <summary>
+        /// 指定日以降のエントリと最終更新日を取得する
+        /// </summary>
+        /// <param name="xml"></param>
+        /// <param name="date"></param>
+        /// <returns></returns>
         public RssInfo GetRssItemsAfterTheSpecifiedDate(string xml, DateTime date)
         {
             RssXml = xml;
@@ -57,6 +77,10 @@ namespace WebAPI.Model
             return info;
         }
 
+        /// <summary>
+        /// XMLからエントリ一覧を取得する
+        /// </summary>
+        /// <returns></returns>
         private List<RssItem> GetItems()
         {
             var reader = XmlReader.Create(new StringReader(RssXml));

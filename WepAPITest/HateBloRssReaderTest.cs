@@ -1,5 +1,6 @@
 ﻿using System;
 using System.CodeDom;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -24,7 +25,7 @@ namespace WepAPITest
         public void テストデータから全件取得()
         {
             var xml = File.ReadAllText(@".\TestData\rss.xml");
-            var items = _sut.GetAllRssItems(xml);
+            var items = _sut.AsDynamic().GetAllRssItems(xml) as List<RssItem>;
 
             Assert.AreEqual(7, items.Count());
             Assert.AreEqual("「もっと○○してからにしよう」をやめる", items[0].Title);
@@ -36,7 +37,7 @@ namespace WepAPITest
         public void テストデータから指定日以降のもののみ取得()
         {
             var xml = File.ReadAllText(@".\TestData\rss.xml");
-            var items = _sut.GetRssItemsAfterTheSpecifiedDate(xml,new DateTime(2014,8,16,9,0,0));
+            var items = _sut.AsDynamic().GetRssItemsAfterTheSpecifiedDate(xml, new DateTime(2014, 8, 16, 9, 0, 0)) as RssInfo;
 
             Assert.AreEqual(2, items.RssItems.Count());
         }

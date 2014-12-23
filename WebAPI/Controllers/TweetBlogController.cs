@@ -25,7 +25,7 @@ http://nakaji.hatenablog.com/
         // GET api/TweetBlog
         public async Task<List<RssItem>> Get()
         {
-            var rssReader = new HateBloRssReader("http://nakaji.hatenablog.com/rss");
+            var rssReader = new HateBloRssReader(new Uri("http://nakaji.hatenablog.com/rss"));
 
             var items = await rssReader.GetRssItemsAfterTheSpecifiedDateAsync(DateTime.Now.AddDays(-1));
 

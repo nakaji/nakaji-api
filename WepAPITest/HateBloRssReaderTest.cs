@@ -3,6 +3,7 @@ using System.CodeDom;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Security.Policy;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using WebAPI;
 using WebAPI.Model;
@@ -14,18 +15,13 @@ namespace WepAPITest
     {
         private HateBloRssReader _sut;
 
-        [TestInitialize]
-        public void SetUp()
-        {
-            var url = "http://nakaji.hatenablog.com/rss";
-            _sut = new HateBloRssReader(url);
-        }
-
         [TestMethod]
         public void テストデータから全件取得()
         {
             var xml = File.ReadAllText(@".\TestData\rss.xml");
-            var items = _sut.AsDynamic().GetAllRssItems(xml) as List<RssItem>;
+            _sut = new HateBloRssReader(xml);
+
+            var items = _sut.AsDynamic().GetAllRssItemsAsync().Result as List<RssItem>;
 
             Assert.AreEqual(7, items.Count());
             Assert.AreEqual("「もっと○○してからにしよう」をやめる", items[0].Title);
@@ -37,7 +33,9 @@ namespace WepAPITest
         public void テストデータから指定日以降のもののみ取得()
         {
             var xml = File.ReadAllText(@".\TestData\rss.xml");
-            var items = _sut.AsDynamic().GetRssItemsAfterTheSpecifiedDate(xml, new DateTime(2014, 8, 16, 9, 0, 0)) as RssInfo;
+            _sut = new HateBloRssReader(xml);
+
+            var items = _sut.AsDynamic().GetRssItemsAfterTheSpecifiedDateAsync(new DateTime(2014, 8, 16, 9, 0, 0)).Result as RssInfo;
 
             Assert.AreEqual(2, items.RssItems.Count());
         }
@@ -45,6 +43,8 @@ namespace WepAPITest
         [TestMethod]
         public void インターネットから()
         {
+            _sut = new HateBloRssReader(new Uri("http://nakaji.hatenablog.com/rss"));
+
             var items = _sut.GetAllRssItemsAsync().Result;
         
             Assert.AreEqual(7, items.Count());

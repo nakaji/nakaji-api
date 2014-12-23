@@ -13,12 +13,17 @@ namespace WebAPI.Model
 {
     public class HateBloRssReader
     {
-        public string Url { get; private set; }
+        public Uri Url { get; private set; }
         public string RssXml { get; private set; }
 
-        public HateBloRssReader(string rssUrl)
+        public HateBloRssReader(Uri rssUrl)
         {
             Url = rssUrl;
+        }
+
+        public HateBloRssReader(string xml)
+        {
+            RssXml = xml;
         }
 
         /// <summary>
@@ -27,10 +32,13 @@ namespace WebAPI.Model
         /// <returns></returns>
         public async Task<List<RssItem>> GetAllRssItemsAsync()
         {
-            using (var client = new WebClient(){Encoding = Encoding.UTF8})
+            if (string.IsNullOrEmpty(RssXml))
             {
-                var xml = await client.DownloadStringTaskAsync(Url);
-                RssXml = xml;
+                using (var client = new WebClient() { Encoding = Encoding.UTF8 })
+                {
+                    var xml = await client.DownloadStringTaskAsync(Url);
+                    RssXml = xml;
+                }
             }
 
             return GetItems();
@@ -47,33 +55,6 @@ namespace WebAPI.Model
             var info = new RssInfo();
             info.RssItems = items.Where(x => x.PubDate >= date).ToList();
             info.LastPubDate = items.Max(x => x.PubDate);
-            return info;
-        }
-
-        /// <summary>
-        /// XMLからRSS情報を取得する
-        /// </summary>
-        /// <param name="xml"></param>
-        /// <returns></returns>
-        public List<RssItem> GetAllRssItems(string xml)
-        {
-            RssXml = xml;
-
-            return GetItems();
-        }
-
-        /// <summary>
-        /// 指定日以降のエントリと最終更新日を取得する
-        /// </summary>
-        /// <param name="xml"></param>
-        /// <param name="date"></param>
-        /// <returns></returns>
-        public RssInfo GetRssItemsAfterTheSpecifiedDate(string xml, DateTime date)
-        {
-            RssXml = xml;
-            var info = new RssInfo();
-            info.RssItems = GetItems().Where(x => x.PubDate >= date).ToList();
-            info.LastPubDate = GetItems().Max(x => x.PubDate);
             return info;
         }
 

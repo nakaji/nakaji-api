@@ -58,6 +58,15 @@ namespace WebAPI.Model
             return info;
         }
 
+        public async Task<RssInfo> GetRssItemsAsync(DateTime dateFrom, DateTime dateTo)
+        {
+            var items = await GetAllRssItemsAsync();
+            var info = new RssInfo();
+            info.RssItems = items.Where(x => x.PubDate >= dateFrom && x.PubDate <= dateTo).ToList();
+            info.LastPubDate = items.Max(x => x.PubDate);
+            return info;
+        }
+
         /// <summary>
         /// XMLからエントリ一覧を取得する
         /// </summary>

@@ -27,14 +27,18 @@ http://nakaji.hatenablog.com/
         {
             var rssReader = new HateBloRssReader(new Uri("http://nakaji.hatenablog.com/rss"));
 
-            var items = await rssReader.GetRssItemsAfterTheSpecifiedDateAsync(DateTime.Now.AddDays(-1));
+            // 12時間以内に投稿したものを対象にするのは何かいやなので、過去36～12時間内に投稿したものを対象にする
+            var items = await rssReader.GetRssItemsAsync(
+                                    DateTime.Now.AddHours(-36),
+                                    DateTime.Now.AddHours(-12)
+                                    );
 
             var twitterHelper = new TwitterHelper();
             try
             {
                 if (items.RssItems.Count == 0)
                 {
-                    var message = string.Format(MessageNoBlog, (DateTime.Now-items.LastPubDate.Value).Days);
+                    var message = string.Format(MessageNoBlog, (DateTime.Now - items.LastPubDate.Value).Days);
                     await twitterHelper.UpdateStatusAsync(message);
                     return null;
                 }

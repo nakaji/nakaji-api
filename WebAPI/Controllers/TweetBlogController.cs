@@ -27,10 +27,10 @@ http://nakaji.hatenablog.com/
         {
             var rssReader = new HateBloRssReader(new Uri("http://nakaji.hatenablog.com/rss"));
 
-            // 12時間以内に投稿したものを対象にするのは何かいやなので、過去36～12時間内に投稿したものを対象にする
+            // 過去36時間内に投稿したものを対象にする
             var items = await rssReader.GetRssItemsAsync(
                                     DateTime.Now.AddHours(-36),
-                                    DateTime.Now.AddHours(-12)
+                                    DateTime.Now
                                     );
 
             var twitterHelper = new TwitterHelper();
